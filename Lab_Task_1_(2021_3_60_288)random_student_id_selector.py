@@ -9,7 +9,7 @@ Original file is located at
 Lab Task 1: Random Student ID Selector
 """
 
-import random
+ import random
 
 def read_student_ids(filename):
 
