@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1xszGdLBZfySgf_NfuVz5l2v6jVa9UQK-
 """
 
-import random
-import math
-import matplotlib.pyplot as plt
+ import random
+ import math
+ import matplotlib.pyplot as plt
 
 
 def argmaxall(gen):
