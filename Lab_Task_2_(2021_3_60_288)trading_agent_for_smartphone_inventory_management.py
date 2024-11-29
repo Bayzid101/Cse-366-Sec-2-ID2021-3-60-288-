@@ -11,7 +11,6 @@ Original file is located at
  import math
  import matplotlib.pyplot as plt
 
-
 def argmaxall(gen):
 
     maxv = -math.inf
@@ -172,7 +171,7 @@ if __name__ == "__main__":
     agent = TP_agent(env)
     sim = Simulate(agent, env)
 
-    sim.go(30)
+    sim.go(100)
 
 
     plot = Plot_history(env, agent)
